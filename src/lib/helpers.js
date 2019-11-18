@@ -38,3 +38,9 @@ export function el(name, ...children) {
 export function randomNumber(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
+
+export function randomDate(start, end) {
+  return new Date(start.getTime() + Math.random() * (end.getTime() - start.getTime()));
+}
+
+randomDate(new Date(1995, 6, 16), new Date());

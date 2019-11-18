@@ -1,0 +1,12 @@
+our API key for ingimarlogi@hotmail.com is:
+
+8noAd0JLKeCww2RhcNP3tuMnFhzq1pVAMXdHhMWH
+
+You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
+
+https://api.nasa.gov/planetary/apod?api_key=8noAd0JLKeCww2RhcNP3tuMnFhzq1pVAMXdHhMWH
+
+For additional support, please contact us. When contacting us, please tell us what API you're accessing and provide the following account details so we can quickly find you:
+
+Account Email: ingimarlogi@hotmail.com
+Account ID: 26705c51-268d-4897-aa45-825a06e882de
